@@ -34,7 +34,7 @@
       <input v-model="terms" type="checkbox" required />
       <label for="">Accpet terms and conditions</label>
     </div>
-    <!-- <div>
+    <div>
       <input type="checkbox" value="ninja" v-model="names" />
       <label for="">Ninja</label>
     </div>
@@ -45,7 +45,7 @@
     <div>
       <input type="checkbox" value="bandit" v-model="names" />
       <label for="">Bandit</label>
-    </div> -->
+    </div>
     <div class="submit">
       <button>Create an Account</button>
     </div>
